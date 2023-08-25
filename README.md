@@ -1,7 +1,7 @@
 # Project name
-> Something about what the project does
+> Quick TL;DR about the project.
 
-1 or 2 paragraphs about the project
+Write 1 or 2 paragraphs about the project, talking about what it does and why you made it.
 
 ![](Luo.jpg "An image/screenshot of the project")
 
@@ -20,15 +20,15 @@ edit autoexec.bat
 
 # Example:
 
-Show where your project might be usefull
+Show where your project might be usefull.
 
 # Dependencies:
 
-Describe what project needs in order to work properly
+Describe what does the project needs in order for it to work properly.
 
 ### Changelog:
 
-Versions and updates
+Versions and updates.
 i.e:
 
 * 0.2.1
