@@ -8,7 +8,6 @@ Z~Z~Z
 <https://www.google.com>
 
 > Quotes
-> :) :| :( 
 
 ---
 
