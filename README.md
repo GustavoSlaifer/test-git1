@@ -3,7 +3,7 @@
 
 1 or 2 paragraphs about the project
 
-![](Luo.jpg "An of the project")
+![](Luo.jpg "An image/screenshot of the project")
 
 ## Instalation
 
